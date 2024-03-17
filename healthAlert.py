@@ -16,13 +16,13 @@ def water():
     m.music.play()
 def eyes():
     m.music.load("eyes.wav")
-    m.music.set_volume(1800)
-    time.sleep(5)
+    m.music.set_volume(100)
+    time.sleep(1800)
     m.music.play()
 def exercise():
     m.music.load("exercise.wav")
-    m.music.set_volume(2400)
-    time.sleep(5)
+    m.music.set_volume(100)
+    time.sleep(2400)
     m.music.play()
 
 
