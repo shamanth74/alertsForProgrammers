@@ -26,7 +26,7 @@ def exercise():
     m.music.play()
 
 
-#user=name   task=drink water   cond=drank or eye or exe
+#user=name  
 def task(user,task,cond):
     print(f"{task} (y/n) or skip(s)  >>")
     userInput = input()
